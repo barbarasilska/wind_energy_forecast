@@ -20,7 +20,7 @@ Hourly forecast of energy generated in a wind turbine for a given day to minimiz
     - Polynomial Features
     - Decision Tree
     - XGBRegressor
-5. Evaluation and selection of the best model
+5. Evaluation and selection the best model
 
 
 
